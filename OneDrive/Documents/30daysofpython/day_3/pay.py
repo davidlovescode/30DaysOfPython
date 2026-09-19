@@ -1,0 +1,1 @@
+hours, rate = input("Enter hours: "), input("Enter rate per hour: ")
